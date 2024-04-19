@@ -1,7 +1,7 @@
 # DirectDNS
 The all Python DNS Proxy Solution!
 
-# Modules used
+# Modules Used
 DNSPython
 
 Asyncio
